@@ -1,5 +1,9 @@
 The "Banking System using C++ (Object-Oriented Programming)" project is a simulation of a banking system developed using C++ programming language following the principles of Object-Oriented Programming (OOP). The project aims to simulate basic banking operations such as opening accounts, performing transfers, withdrawals, deposits, and viewing account details. It demonstrates how to organize data using classes, attributes, and methods, with each part of the system being separated into independent objects to enhance maintainability and flexibility.
 
+
+
+
+
 Key Features of the Project:
 
 Account Management: Allows the user to open new accounts with properties such as name, account number, and account balance.
@@ -13,6 +17,9 @@ Account Details View: Provides the ability to view the account balance and trans
 Transaction Management: Stores financial transactions and automatically updates the accounts.
 
 User Interface: Interact with the system through a console-based interface that allows easy interaction with banking services.
+
+
+
 
 
 
@@ -31,6 +38,10 @@ Encapsulation: Hides the system's implementation details from the user, allowing
 Polymorphism: Allows the program to create common interfaces and methods across multiple classes.
 
 Programming Language: C++
+
+
+
+
 
 
 Example Classes:
@@ -52,6 +63,10 @@ Bank Class:
 Attributes: List of accounts, list of transactions.
 
 Methods: Add new account, perform transfers, complete transactions.
+
+
+
+
 
 
 Project Goal:
