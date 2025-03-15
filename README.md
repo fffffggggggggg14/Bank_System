@@ -8,6 +8,9 @@ Financial Transfers: Allows the user to perform financial transfers between diff
 Account Details View: Provides the ability to view the account balance and transaction history.
 Transaction Management: Stores financial transactions and automatically updates the accounts.
 User Interface: Interact with the system through a console-based interface that allows easy interaction with banking services.
+
+
+
 Technologies Used:
 
 Object-Oriented Programming (OOP):
