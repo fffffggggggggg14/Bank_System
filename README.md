@@ -19,7 +19,6 @@ Encapsulation: Hides the system's implementation details from the user, allowing
 Polymorphism: Allows the program to create common interfaces and methods across multiple classes.
 Programming Language: C++
 
-Storage: Account data and transactions are stored in text files (can be expanded to use databases in the future).
 
 Example Classes:
 
